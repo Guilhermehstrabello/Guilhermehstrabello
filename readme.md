@@ -8,7 +8,7 @@ My name is Guilherme, i'm 17 years old.I'm a self-taught student. I am studying 
 - - -
 
 - 🎓 I’m currently working on improve my programming abilities.
-- 📚 I’m currently learning Html, Css, JavaScript and web design with Figma.
+- 📚 I’m currently learning Html, Css.
 
 
 
