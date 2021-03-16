@@ -9,7 +9,7 @@ My name is Guilherme, i'm 17 years old.I'm a self-taught student. I am studying 
 
 - 🎓 I’m currently working on improve my programming abilities.
 - 📚 I’m currently learning Html and Css.
--    I'm love music and my hobbie is work with musical producing
+- 🎼 I'm love music and my hobbie is work with musical producing
 
 
 
