@@ -14,6 +14,6 @@ My name is Guilherme, i'm 17 years old.I'm a self-taught student. I am studying 
 
 ## Where can you find me?
 [<img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/guizin.zika/)
+[<img src = "https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=outlook&logoColor=white">](gui.strabehonorio@outlook.com)
 [<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/guilherme-strabello-2a9758156/)
-
 <!--
