@@ -15,6 +15,8 @@ My name is Guilherme, i'm 19 years old. I'm a self-taught student. I am studying
 
 # Tecnologies
 
+These are the technologies I know and I'm getting improving.
+
 <img align="center" alt="HTML5" 
 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="CSS3" 
