@@ -11,6 +11,15 @@ My name is Guilherme, i'm 19 years old. I'm a self-taught student. I am studying
 - 📚 I’m currently learning Html and Css.
 - 🎼 I'm love music and my hobbie is work with musical producing.
 
+---
+
+Tecnologies
+
+<img align="center" alt="HTML5" 
+src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="CSS3" 
+src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
 
 
 ## Where can you find me?
