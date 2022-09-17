@@ -25,7 +25,7 @@ src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logo
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermehstrabello&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehstrabello&layout=compact)](https://github.com/guilhermehstrabello/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehstrabello&layout=compact&show_icons=true&theme=radical)](https://github.com/guilhermehstrabello/github-readme-stats)
 
 
 ## Social Links
