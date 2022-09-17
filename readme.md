@@ -25,7 +25,7 @@ src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logo
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermehstrabello)](https://github.com/guilhermehstrabello/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guilhermehstrabello)](https://github.com/guilhermehstrabello/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guihs)](https://github.com/guilhermehstrabello/github-readme-stats)
 
 
 
