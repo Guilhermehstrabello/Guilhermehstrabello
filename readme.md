@@ -7,8 +7,8 @@
 My name is Guilherme, i'm 19 years old. I'm a self-taught student. I am studying to become a complete front-end developer and in the future a fullstack. I'm focus in HTML,CSS and always looking to learn more every day. I'm very interesed to learn Web Desing with Figma.
 - - -
 
-- 🎓 I’m currently working on improve my programming abilities.
-- 📚 I’m currently learning Html, Css and Javascript.
+- 🎓 I’m currently working on improve my hard and soft skills.
+- 📚 I’m currently learning Html, Css, Javascript and Web Desing with Figma.
 - 🎼 I'm love music and my hobbie is work with musical producing.
 
 ---
