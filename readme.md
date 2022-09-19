@@ -22,7 +22,7 @@ src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&lo
 <img align="center" alt="CSS3" 
 src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt"Javascript"
-https://img.shields.io/badge/-Javascript-FFFF00?logo=javascript&logoColor=white&style=for-the-badge&Width=30%20Squared%20Style>
+src="https://img.shields.io/badge/-Javascript-FFFF00?logo=javascript&logoColor=white&style=for-the-badge&Width=30%20Squared%20Style">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehstrabello&layout=compact&show_icons=true&theme=material-palenight)](https://github.com/guilhermehstrabello/github-readme-stats)
 
