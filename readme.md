@@ -17,10 +17,8 @@ My name is Guilherme, i'm 19 years old. I'm a self-taught student. I am studying
 
 These are the technologies I know and I'm getting improving.
 
-<img align="center" alt="HTML5" 
-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="CSS3" 
-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-00BFFF?logo=css3&logoColor=white&logoWidth=30">
 <img src="https://img.shields.io/badge/-Javascript-FFFF00?logo=javascript&logoColor=black&logoWidth=30">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehstrabello&layout=compact&show_icons=true&theme=material-palenight)](https://github.com/guilhermehstrabello/github-readme-stats)
