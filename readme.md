@@ -8,7 +8,7 @@ My name is Guilherme, i'm 19 years old. I'm a self-taught student. I am studying
 - - -
 
 - 🎓 I’m currently working on improve my programming abilities.
-- 📚 I’m currently learning Html and Css.
+- 📚 I’m currently learning Html, Css and Javascript.
 - 🎼 I'm love music and my hobbie is work with musical producing.
 
 ---
